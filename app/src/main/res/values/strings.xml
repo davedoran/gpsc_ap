@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Gatineau Park Ski Conditions</string>
+
+    <!-- View Page Adapter Titles -->
+    <string name="title_conditions">Conditions</string>
+    <string name="title_classic">Classic</string>
+    <string name="title_skate">Skate</string>
+    <string name="title_backcountry">Back-Country</string>
+
+    <!-- ListView Cells -->
+    <string name="groomed">Last Groomed:</string>
+    <string name="trackset">Track Set:</string>
+    <string name="patrolled">Last Patrolled:</string>
+    <string name="na">N/A</string>
+
+    <!-- Settings Menu -->
+    <string name="ncc_link">NCC Website</string>
+    <string name="about_app">About</string>
+    <string name="trail_map">Trail Map</string>
+
+    <!-- Errors -->
+    <string name="server_unreachable">Server Unreachable</string>
+    <string name="ncc_url">http://www.ncc-ccn.gc.ca/places-to-visit/gatineau-park/ski-conditions</string>
+
+    <!-- About -->
+    <string name="title_activity_about">About</string>
+    <string name="about_data">Ski conditions data has been provided by the National Capital Commission.</string>
+    <string name="about_disclaimer">This app makes no guarantees regarding the accuracy of any information provided.</string>
+    <string name="about_copyright">Copyright 2014, Dave Doran</string>
+
+    <!-- Weather -->
+    <string name="title_activity_weather">Weather</string>
+    <string name="weather_image">Weather Image</string>
+    <string name="gatineau_weather">Gatineau</string>
+    <string name="chelsea_weather">Old Chelsea</string>
+    <string name="wakefield_weather">Wakefield</string>
+
+    <!-- Toast -->
+    <string name="stale_data">The server is unreachable; Displaying last known conditions …</string>
+    <string name="title_activity_trail_maps">Trail Maps</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

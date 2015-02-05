@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">Conditions de Ski parc de la Gatineau</string>
+
+    <!-- View Page Adapter Titles -->
+    <string name="title_conditions">Conditions</string>
+    <string name="title_classic">Classique</string>
+    <string name="title_skate">Skate</string>
+    <string name="title_backcountry">Arrière-pays</string>
+
+    <!-- ListView Cells -->
+    <string name="groomed">Dernière soigné:</string>
+    <string name="trackset">Suivre jeu:</string>
+    <string name="patrolled">Dernière patrouille:</string>
+    <string name="na">N/A</string>
+
+    <!-- Settings Menu -->
+    <string name="ncc_link">Site Web de CCN</string>
+    <string name="trail_map">Carte des sentiers</string>
+    <string name="about_app">Sur</string>
+
+    <!-- Errors -->
+    <string name="server_unreachable">Serveur inaccessible</string>
+    <string name="ncc_url">http://www.ncc-ccn.gc.ca/places-to-visit/gatineau-park/ski-conditions</string>
+
+    <!-- About -->
+    <string name="title_activity_about">Sur</string>
+    <string name="about_data">Ski conditions données ont été fournies par la Commission de la capitale nationale.</string>
+    <string name="about_disclaimer">Ce soft ne donne aucune garantie quant à l\'exactitude de toute information fournie.</string>
+    <string name="about_copyright">Copyright 2014, Dave Doran</string>
+
+    <!-- Toast -->
+    <string name="stale_data">Le serveur est inaccessible ; Affichage des dernières conditions connues&#8230;</string>
+
+</resources>

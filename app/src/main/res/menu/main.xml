@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/map_link"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/trail_map"/>
+
+    <item
+        android:id="@+id/ncc_link"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/ncc_link"/>
+
+    <item
+        android:id="@+id/about_link"
+        android:orderInCategory="300"
+        android:showAsAction="never"
+        android:title="@string/about_app"/>
+
+</menu>
